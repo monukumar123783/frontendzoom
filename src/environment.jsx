@@ -1,7 +1,6 @@
-let IS_PROD = false;
+let IS_PROD = true;
 const server = IS_PROD ?
-      "https://zoom-clone-yl3m.onrender.com":
-
+       "https://zoom-ebux.onrender.com":  
        "http://localhost:8000"
      
 
